@@ -23,3 +23,7 @@ echo node server.js 8888 > log 2>&1 &' >> ./start
 chmod +x start
 ```
 Then you can use either `./start` or `sh ./start` to start the server.
+
+## See the Website
+
+Type `47.254.81.220:8888` in the address bar.
